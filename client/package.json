@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "start": "node client\\src\\index.js"
+      }
+      
+}
